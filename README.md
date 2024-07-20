@@ -13,6 +13,8 @@ KPI's Requirements:
    - Total Revenue
    - Average Order Value and average pizza per order
    - Total pizza sold and total orders
+
+![first](https://github.com/user-attachments/assets/1a1c923a-60e3-408c-8606-53b52ca2bca1)
     
 
 
