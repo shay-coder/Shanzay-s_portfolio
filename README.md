@@ -15,6 +15,8 @@ KPI's Requirements:
    - Total pizza sold and total orders
 
 ![first](https://github.com/user-attachments/assets/1a1c923a-60e3-408c-8606-53b52ca2bca1)
+
+![2](https://github.com/user-attachments/assets/337ac9e7-8f7d-49e5-9f40-12475d5ef43c)
     
 
 
