@@ -1,6 +1,6 @@
-#Analytics Portfolio
+# Analytics Portfolio
 
-#[Project 1: Sales Analysis](https://www.linkedin.com/pulse/analyzing-pizza-sales-trends-using-power-bi-shanzay-rajpoot-f7rqf/?trackingId=vyWerJBPTDeOiwV8ZszAyQ%3D%3D)
+## [Project 1: Sales Analysis](https://www.linkedin.com/pulse/analyzing-pizza-sales-trends-using-power-bi-shanzay-rajpoot-f7rqf/?trackingId=vyWerJBPTDeOiwV8ZszAyQ%3D%3D)
 
 This is project where i had to find trends of sales for monthly and yearly basis.
 Analysis:
