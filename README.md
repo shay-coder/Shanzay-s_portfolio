@@ -41,7 +41,6 @@ KPI's Requirements:
 ![Screenshot (22)](https://github.com/user-attachments/assets/da1f4238-e194-4a1d-b404-4603b175fa2d)
 
 
-![ncri](https://github.com/user-attachments/assets/08aef6c4-e9c7-4ea7-aa97-a5017563d876)
 ## Project 4: AMDC Report  
 **I have assit in analyzing collectors work. Here is analysis and key metrics created in dashboard.**
 
