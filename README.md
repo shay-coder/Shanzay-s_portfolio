@@ -43,17 +43,17 @@ KPI's Requirements:
 ## Project 4: AMDC Report
 **I have assit in analyzing collectors work. Here is analysis and key metrics created in dashboard.**
 
- **Employee Performance Analysis**:
+ -**Employee Performance Analysis**:
   - Evaluated contractility performance of each employee in the AMDC team.
   
-  **Collector Activity Tracking**:
+  -**Collector Activity Tracking**:
   - Monitored the number of accounts touched and contacted by collectors.
   - Identified accounts not found by collectors.
   
-  **Top Collectors Identification**:
+  -**Top Collectors Identification**:
   - Highlighted the top 5 collectors based on the highest targets completed and loans secured.
   
-   **Bank Payments Overview**:
+   -**Bank Payments Overview**:
   - Analyzed payments made in each bank:
     - FAB
     - RAK
@@ -62,10 +62,10 @@ KPI's Requirements:
     - CBI
     - Sharjah Islamic Bank
   
-  **Account Management**:
+  -**Account Management**:
   - Tracked the number of accounts opened in each bank.
   
-  **Focus on NCRI Employees**:
+  -**Focus on NCRI Employees**:
   - Assessed NCRI employees' performance.
   - Measured how many accounts each collector contacted.
   - Evaluated the extent to which collectors reached their targets over specific dates.
