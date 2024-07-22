@@ -35,7 +35,8 @@ KPI's Requirements:
 
 ## [Project 3: Revenue Insights in Hospitality Domain- Analysis](https://www.linkedin.com/pulse/analyzing-pizza-sales-trends-using-power-bi-shanzay-rajpoot-f7rqf/?trackingId=vyWerJBPTDeOiwV8ZszAyQ%3D%3D)
 
-**Atliq Grands noticed a loss in their market share and revenue over few months. To understand the cause of this loss, they needed a way to analyze. This is a dashboard using three months of data**% in the next month**
+**Atliq Grands noticed a loss in their market share and revenue over few months. To understand the cause of this loss, they needed a way to analyze. This is a dashboard using three months of data**% in the next month.**
+
 ![Screenshot (21)](https://github.com/user-attachments/assets/d5eadd67-9813-46c5-a34d-2c9bd210d00f)
 ![Screenshot (22)](https://github.com/user-attachments/assets/da1f4238-e194-4a1d-b404-4603b175fa2d)
 
