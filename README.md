@@ -40,6 +40,38 @@ KPI's Requirements:
 ![Screenshot (21)](https://github.com/user-attachments/assets/d5eadd67-9813-46c5-a34d-2c9bd210d00f)
 ![Screenshot (22)](https://github.com/user-attachments/assets/da1f4238-e194-4a1d-b404-4603b175fa2d)
 
+[Project 4: AMDC Report]
+Here's a clear and concise description of the dashboard for your portfolio:
+
+- **Employee Performance Analysis**:
+  - Evaluated contractility performance of each employee in the AMDC team.
+  
+- **Collector Activity Tracking**:
+  - Monitored the number of accounts touched and contacted by collectors.
+  - Identified accounts not found by collectors.
+  
+- **Top Collectors Identification**:
+  - Highlighted the top 5 collectors based on the highest targets completed and loans secured.
+  
+- **Bank Payments Overview**:
+  - Analyzed payments made in each bank:
+    - FAB
+    - RAK
+    - Dubai Islamic Bank
+    - Dubai First
+    - CBI
+    - Sharjah Islamic Bank
+  
+- **Account Management**:
+  - Tracked the number of accounts opened in each bank.
+  
+- **Focus on NCRI Employees**:
+  - Assessed NCRI employees' performance.
+  - Measured how many accounts each collector contacted.
+  - Evaluated the extent to which collectors reached their targets over specific dates.
+
+This dashboard provides a comprehensive analysis of employee performance and collector efficiency, with a focus on targets achieved and bank-related activities.
+
 
 
 
