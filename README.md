@@ -65,8 +65,8 @@ KPI's Requirements:
   -**Account Management**:
   - Tracked the number of accounts opened in each bank.
   
-  -**Focus on NCRI Employees**:
-  - Assessed NCRI employees' performance.
+  -**Focus on AMDC Employees**:
+  - Assessed AMDC Team' performance.
   - Measured how many accounts each collector contacted.
   - Evaluated the extent to which collectors reached their targets over specific dates.
 
