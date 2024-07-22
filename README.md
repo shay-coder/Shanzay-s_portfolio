@@ -73,6 +73,28 @@ KPI's Requirements:
 The report provides a comprehensive analysis of employee performance and collector efficiency, with a focus on targets achieved and bank-related activities.
 
 
+## Project 5: NCRI HR Report
+In this report, I have assist in analyzing employees performance. Here is main visualization, I have created
+
+- **NCRI Employees' Performance Analysis**:
+  - **Attendance Monitoring**:
+    - Clock-in time for each employee.
+    - Clock-out time for each employee.
+  
+  - **Work Hours Calculation**:
+    - Total working hours per employee.
+  
+  - **Idle Time Tracking**:
+    - Total idle time for each employee.
+  
+  - **Focus Time Analysis**:
+    - Total focus time per team.
+  
+  - **Individual Employee Details**:
+    - Detailed performance metrics for each employee.
+
+This dashboard provides a detailed overview of NCRI employees' attendance, work hours, idle time, and focus time, both at the individual and team levels. Helped in inquiring each employee and their performance
+
 
 
 
