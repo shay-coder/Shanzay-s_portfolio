@@ -40,7 +40,7 @@ KPI's Requirements:
 ![Screenshot (21)](https://github.com/user-attachments/assets/d5eadd67-9813-46c5-a34d-2c9bd210d00f)
 ![Screenshot (22)](https://github.com/user-attachments/assets/da1f4238-e194-4a1d-b404-4603b175fa2d)
 
-## [Project 4: AMDC Report] ![ncri](https://github.com/user-attachments/assets/06cd05bd-e1b3-4dff-b340-a6bd85db2bdf)
+## Project 4: AMDC Report
 **I have assit in analyzing collectors work. Here is analysis and key metrics created in dashboard.**
 
  **Employee Performance Analysis**:
