@@ -97,6 +97,15 @@ In this report, I have assist in analyzing employees performance. Here is main v
 This dashboard provides a detailed overview of NCRI employees' attendance, work hours, idle time, and focus time, both at the individual and team levels. Helped in inquiring each employee and their performance
 
 
+## Project 5: CRM Analytics by Maven Analytics - Exploratory Data Analysis
+**I have to analyze crm sales**
+
+ -**Sales by Quarter**
+ -**Sales by agnets**
+ -**Winnigs opportunity by agents**
+ -**Sales Pipeline**
+
+  ![Screenshot (24)](https://github.com/user-attachments/assets/0833cdd8-0f09-4255-82be-75c379f8ceb4)
 
 
     
