@@ -98,7 +98,7 @@ This dashboard provides a detailed overview of NCRI employees' attendance, work 
 
 
 ## Project 5: CRM Analytics by Maven Analytics - Exploratory Data Analysis
-**I have to analyze crm sales**
+**Exploratory data analysis of CRM sales and visulization in Powerbi**
 
  -**Sales by Quarter**
  -**Sales by agnets**
