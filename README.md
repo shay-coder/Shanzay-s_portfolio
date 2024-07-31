@@ -105,7 +105,7 @@ This dashboard provides a detailed overview of NCRI employees' attendance, work 
  -**Winnigs opportunity by agents**
  -**Sales Pipeline**
 
- #Python Code[https://github.com/shay-coder/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis.ipynb]
+ [Python Code]([https://github.com/shay-coder/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis.ipynb)
 
   ![Screenshot (24)](https://github.com/user-attachments/assets/0833cdd8-0f09-4255-82be-75c379f8ceb4)
 
