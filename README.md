@@ -73,8 +73,14 @@ KPI's Requirements:
 
 The report provides a comprehensive analysis of employee performance and collector efficiency, with a focus on targets achieved and bank-related activities.
 
+## Project 5: NCRI Recruiment Report
+- Analyze the candidates, their interest and salaries information
+- Analyze candidates interviewd and selected
+- Graphs for showing notice period, shift availibity, communications skills
+![Screenshot (31)](https://github.com/user-attachments/assets/ce4ab200-d692-45f5-9f64-ca52181e7d72)
 
-## Project 5: NCRI HR Report
+
+## Project 6: NCRI HR Report for employees perfromance
 In this report, I have assist in analyzing employees performance. Here is main visualization, I have created
 
 - **NCRI Employees' Performance Analysis**:
