@@ -77,6 +77,7 @@ The report provides a comprehensive analysis of employee performance and collect
 - Analyze the candidates, their interest and salaries information
 - Analyze candidates interviewd and selected
 - Graphs for showing notice period, shift availibity, communications skills
+  
 ![Screenshot (31)](https://github.com/user-attachments/assets/ce4ab200-d692-45f5-9f64-ca52181e7d72)
 
 
