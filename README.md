@@ -80,6 +80,9 @@ The report provides a comprehensive analysis of employee performance and collect
   
 ![Screenshot (31)](https://github.com/user-attachments/assets/ce4ab200-d692-45f5-9f64-ca52181e7d72)
 
+![Screenshot (32)](https://github.com/user-attachments/assets/ff81e18a-1ab7-455a-b205-efce049f2af0)
+
+
 
 ## Project 6: NCRI HR Report for employees perfromance
 In this report, I have assist in analyzing employees performance. Here is main visualization, I have created
