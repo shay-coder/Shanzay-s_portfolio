@@ -111,7 +111,8 @@ This dashboard provides a detailed overview of NCRI employees' attendance, work 
 - Developed a Power BI dashboard to analyze bank loan data, focusing on key financial metrics and customer demographics.
 - Visualizes crucial insights such as loan repayment status, home ownership, loan term distribution, and customer employment tenure.
 - The dashboard helps stakeholders quickly assess the bank’s loan portfolio performance and customer trends.
--**Key Results:
+  
+-**Key Results:**
 - Loan Repayment: Displayed 7.066K fully paid loans, indicating strong repayment rates.
 - Account Activity: Summarized 78K open accounts, showing active customer engagement.
 - Home Ownership Insight: Differentiated between customers who own homes, rent, or have mortgages, providing a clear view of homeownership trends.
