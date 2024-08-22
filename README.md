@@ -108,8 +108,6 @@ This dashboard provides a detailed overview of NCRI employees' attendance, work 
 
 ## Project 7: Bank Loan Report Dashboard
 -**Collector Activity Tracking**:
-  - Monitored the number of accounts touched and con
--**Description:
 - Developed a Power BI dashboard to analyze bank loan data, focusing on key financial metrics and customer demographics.
 - Visualizes crucial insights such as loan repayment status, home ownership, loan term distribution, and customer employment tenure.
 - The dashboard helps stakeholders quickly assess the bank’s loan portfolio performance and customer trends.
