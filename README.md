@@ -106,8 +106,24 @@ In this report, I have assist in analyzing employees performance. Here is main v
 
 This dashboard provides a detailed overview of NCRI employees' attendance, work hours, idle time, and focus time, both at the individual and team levels. Helped in inquiring each employee and their performance
 
+## Project 7: Bank Loan Report Dashboard
+-**Collector Activity Tracking**:
+  - Monitored the number of accounts touched and con
+-**Description:
+- Developed a Power BI dashboard to analyze bank loan data, focusing on key financial metrics and customer demographics.
+- Visualizes crucial insights such as loan repayment status, home ownership, loan term distribution, and customer employment tenure.
+- The dashboard helps stakeholders quickly assess the bank’s loan portfolio performance and customer trends.
+-**Key Results:
+- Loan Repayment: Displayed 7.066K fully paid loans, indicating strong repayment rates.
+- Account Activity: Summarized 78K open accounts, showing active customer engagement.
+- Home Ownership Insight: Differentiated between customers who own homes, rent, or have mortgages, providing a clear view of homeownership trends.
+- Loan Terms: Illustrated that 72K loans are short-term, while 28K are long-term, aiding in understanding customer preferences.
+- Employment Tenure: Analyzed distribution across different job tenures, with a significant portion (36.6K) in the 1-5 years category.
+- Loan Purpose: Identified major reasons for taking loans, with a high percentage for debt consolidation and home improvement.
 
-## Project 5: CRM Analytics by Maven Analytics - Exploratory Data Analysis
+![Screenshot (33)](https://github.com/user-attachments/assets/a718147f-604e-4101-b14c-50db55f96bdb)
+
+## Project 8: CRM Analytics by Maven Analytics - Exploratory Data Analysis
 **Exploratory data analysis of CRM sales and visulization in Powerbi**
 
  -**Sales by Quarter**
